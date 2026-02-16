@@ -5,7 +5,7 @@ on:
     branches:
       - main
     paths:
-      - 'mini-todo-frontend/**'
+      - 'ems/**'
 
 jobs:
   deploy:
