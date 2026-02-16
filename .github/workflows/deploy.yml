@@ -36,4 +36,4 @@ jobs:
             git pull origin main
             npm install
             npm run build || true
-            pm2 restart ems || pm2 start server.js --name ems
+           
